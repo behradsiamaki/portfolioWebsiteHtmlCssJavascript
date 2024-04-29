@@ -1,2 +1,2 @@
-# portfolioWebsite
+# personalWebsite
 # personalWebsite
